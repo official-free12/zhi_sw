@@ -1,0 +1,6 @@
+# 【支付系统】XBU微信/支付宝在线换钱平台系统源码
+
+本店承接一条龙搭建<br>【包服务器/包域名/包宝塔配置/包搭建/包封装】<br>一条龙搭建：源码+服务器<br>【服务器时间长短可选/提供给买家IP+账号+密码+宝塔管理面板】<br>+实名域名【一年】+宝塔安装+宝塔环境配置+源码安装<br>网站配置：各种接口对接，网站优化设置，安全维护，后期运营维护<br>我们靠的是售后服务于技术，我们的核心就是全程售后维护指导，经验指导，争取长期合作！example.com！<br>有需要的请联系QQ<br>演示网站地址：http://example.com/<br>后台登录地址：http://example.com/admin/example.com<br>后台账号：admin<br>密码：123456<br>源码介绍<br>支持对接易支付收款、<br>自定义换钱手续费和换钱额度、<br>可以设置首页是否显示换钱记录<br>带第三方支付接口<br>具体功能请看演示网站<br>用户须知：（请购买前务必阅读）<br>1：为避免不必要的纠纷，本店源码均提供前后台演示，如果失效请联系客服提供前后台或测试账号；<br>2：买之前请认真对演示站进行测试，请确保要的是演示站这种在下单，买了之后演示站之外的问题不予退款；<br>3：标价仅为源码费用，如果需要提供安装服务，请事先联系店主并确保你的主机必须为宝塔环境，需提供宝塔账号。<br>4：免费安装服务仅限搭建到服务器，能够访问前后台。涉及对接支付接口、API对接等服务，另外协商费用；<br>5：程序仅供学习研究，请勿用于非法用途，不得违反国家法律，否则后果自负，一切法律责任与本店无关。<br>6：请仔细阅读以上条款再购买，拍下即代表同意条款并遵守约定，谢谢大家支持理解！<br>
+
+
+<p style="color: red;">源代码下载地址：<a href="https://mega-file.org/AORRb" style="color: red;">https://mega-file.org/AORRb</a></p><p style="color: red;"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" alt="Telegram Icon" style="width: 16px; vertical-align: middle; margin-right: 5px;">Telegram:<a href="https://t.me/official_sourcecode" style="color: red;">@official_sourcecode</a></p>
